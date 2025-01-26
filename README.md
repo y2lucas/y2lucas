@@ -1,5 +1,4 @@
-#### -Hello✌️
-#### - Nice to meet you, my name is Lucas Vasconcelos
+#### - Hello everything is fine? My name is Lucas Vasconcelos
 #### -I am currently 15 years old
 #### - currently developing in
 
