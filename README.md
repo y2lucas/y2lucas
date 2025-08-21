@@ -1,4 +1,4 @@
-##  Olá Me Chamo Lucas Vasconcelos <img src="https://media.tenor.com/1TrOhNMRBysAAAAi/luxray-animated-box-sprite.gif" height="50px" width="50px"> <img src="https://i.pinimg.com/originals/9f/4b/dd/9f4bdd77300ed1c94d2b56dca230d2bd.gif" height="50px" width="50px"> 
+##  Olá Me Chamo Lucas Vasconcelos  <img src="https://i.pinimg.com/originals/9f/4b/dd/9f4bdd77300ed1c94d2b56dca230d2bd.gif" height="50px" width="50px"> 
 #### Tenho 16 Anos, Sou De Olinda-PE<br>Estudante de Inglês Pela UPE, Estudante De Desenvolvimento de Sistemas Pelo Senac<br> Estudo online o Curso FullStack da B7web 
 
  ## 🌐 Contatos:
