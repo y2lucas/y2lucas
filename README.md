@@ -3,7 +3,8 @@
 **`Desenvolvedor Front-end`**
 <img src='https://media.tenor.com/lDABrz9A5rAAAAAi/pokemon-kanto.gif' height='30px'>
 
-Me chamo Lucas Vasconcelos, tenho 16 anos e sou natural de Pernambuco. Atualmente estou Fazendo o 3º do ensino médio junto com o curso técnico de Desenvolvimento de Sistemas no senac, sou apaixonado por tecnologia e ajudar as pessoas com meu conhecimento
+Me chamo Lucas Vasconcelos, tenho 16 anos e sou natural de Pernambuco. Atualmente estou Fazendo o 3º do ensino médio junto com o curso técnico de Desenvolvimento de Sistemas no senac, sou apaixonado por tecnologia e ajudar as pessoas com meu conhecimento, caso queira entrar em contato comigo:devlucas2604@gmail.com
+
 
 
 ### 💻 Linguagens e Tecnologias
