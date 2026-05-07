@@ -1,13 +1,8 @@
-# 👩🏻‍💻 Lucas Vasconcelos 
+## Hello <img src='https://media.tenor.com/Z28li6XI1WAAAAAi/jjk.gif' height='60px'>
+### About Me
+#### "I'm Lucas Vasconcelos, I'm 17 years old, and I'm from Olinda. Currently, I'm in my senior year of high school, along with a Systems Development course. We can chat in Portuguese and English.
 
-**`Desenvolvedor Front-end`**
-<img src='https://media.tenor.com/lDABrz9A5rAAAAAi/pokemon-kanto.gif' height='30px'>
-
-Me chamo Lucas Vasconcelos, tenho 16 anos e sou natural de Pernambuco. Atualmente estou Fazendo o 3º do ensino médio junto com o curso técnico de Desenvolvimento de Sistemas no senac, sou apaixonado por tecnologia e ajudar as pessoas com meu conhecimento, caso queira entrar em contato comigo:devlucas2604@gmail.com
-
-
-
-### 💻 Linguagens e Tecnologias
+### Technologies
 
 <img 
     align="left" 
@@ -95,40 +90,6 @@ Me chamo Lucas Vasconcelos, tenho 16 anos e sou natural de Pernambuco. Atualment
 <br>
 <br>
 
-### 🎧Idiomas
-  <img 
-  width="30px"
-  alt="Brasil"
-  title="Brasil"
-  align="left" 
-  style="padding-right: 10px;" 
-  src="https://static.todamateria.com.br/upload/ba/nd/bandeiradobrasil-2-cke.jpg" 
-  /> <p>Nativo</p>
-
-  <img 
-  width="30px"
-  alt="Estados Unidos"
-  title="Estados Unidos"
-  align="left" 
-  style="padding-right: 10px;" 
-  src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" 
-  /> <p>Basico</p>
-
-
-### 🎈hobbies
-<ul>
-  <li>📖Ler</li>
-  <li>🎮Jogar</li>
-  <li>🥋Lutar(jiu-jitsu)</li>
-  <li>🎸Tocar instrumentos musicais</li>
-</ul>
-
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/y2lucas/y2lucas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/y2lucas/y2lucas/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/y2lucas/y2lucas/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 
